@@ -43,7 +43,7 @@ By the end, you'll have a practical toolkit to:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/CodingWithMK/cryptography-python.git
-   cd cryptography-toolkit
+   cd cryptography-python
    ```
 
 2. **Create and activate a virtual environment using uv**  
