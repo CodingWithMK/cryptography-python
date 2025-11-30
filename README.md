@@ -1,7 +1,3 @@
-Absolutely, Musab! Here's a professional and beginner-friendly `README.md` tailored for your GitHub repository based on the tutorial:
-
----
-
 # 🔐 Python Cryptography Toolkit
 
 A beginner-friendly command-line cryptography tool built in Python. This project is based on a hands-on tutorial by **Thanishkka**, a member of [Hack Club](https://hackclub.com/), a global non-profit empowering high school students to code and create.
